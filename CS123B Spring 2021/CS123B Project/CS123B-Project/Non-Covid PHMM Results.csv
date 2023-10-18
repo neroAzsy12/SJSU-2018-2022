@@ -1,0 +1,31 @@
+,Sequence Name,Log Viterbi Score,Amino Acid Length,Data Origin
+1,NP_040980.1 haemagglutinin [Influenza A virus (A/Puerto Rico/8/1934(H1N1))],-345.3901289206715,566,Non-Covid Training
+2,YP_009118626.1 hemagglutinin [Influenza A virus (A/California/07/2009(H1N1))],-348.2459111014091,566,Non-Covid Training
+3,NP_056922.1 fusion protein [Measles morbillivirus],-358.6813236666485,550,Non-Covid Training
+4,YP_133826.1 fusion protein [Peste des petits ruminants virus],-359.847687969302,546,Non-Covid Training
+5,YP_308669.1 hemagglutinin [Influenza A virus (A/goose/Guangdong/1/1996(H5N1))],-365.272934598501,568,Non-Covid Training
+6,YP_003815435.1 spike glycoprotein [Bundibugyo ebolavirus],-374.9997347018965,676,Non-Covid Training
+7,YP_003815426.1 spike glycoprotein [Tai Forest ebolavirus],-375.3629499490935,676,Non-Covid Training
+8,NP_066246.1 spike glycoprotein [Zaire ebolavirus],-376.1917944314057,676,Non-Covid Training
+9,YP_009513277.1 spike glycoprotein [Bombali ebolavirus],-387.20922211567097,672,Non-Covid Training
+10,YP_138523.1 spike glycoprotein [Sudan ebolavirus],-391.42229040624386,676,Non-Covid Training
+11,NP_690583.1 spike glycoprotein [Reston ebolavirus],-393.3798004108444,677,Non-Covid Training
+12,YP_008378663.1 fusion protein [Human parainfluenza virus 4a],-414.65542716362415,543,Non-Covid Training
+13,YP_009094078.1 fusion protein [Tuhoko virus 3],-421.41171743959615,537,Non-Covid Training
+14,NP_899659.1 fusion protein F [Reptilian ferlavirus],-425.0622476059706,545,Non-Covid Training
+15,YP_138508.1 fusion protein [Simian orthorubulavirus],-426.8416051310301,561,Non-Covid Training
+16,YP_087124.2 F protein [Rinderpest virus (strain Kabete O)],-428.6029914185849,546,Non-Covid Testing
+17,YP_009118475.1 hemagglutinin [Influenza A virus (A/Shanghai/02/2013(H7N9))],-432.22865474661296,560,Non-Covid Training
+18,YP_009177602.1 fusion protein [Phocine morbillivirus],-437.401746108024,631,Non-Covid Training
+19,NP_604440.1 F glycoprotein [Human respirovirus 1],-443.8637694820701,555,Non-Covid Training
+20,YP_007008150.1 fusion protein [Avian paramyxovirus 4],-449.5334855379383,566,Non-Covid Training
+21,NP_056660.1 hemagglutinin [Influenza B virus (B/Lee/1940)],-453.19460931058154,584,Non-Covid Training
+22,YP_009512962.1 fusion protein [Feline morbillivirus],-636.2776007142352,543,Non-Covid Testing
+23,NP_047205.1 fusion protein F [Canine morbillivirus],-665.784419095262,662,Non-Covid Testing
+24,YP_009094094.1 fusion protein [Mojiang virus],-697.0477474488174,545,Non-Covid Testing
+25,YP_009666852.1 F protein [Mount Mabu Lophuromys virus 2],-710.7656614426817,549,Non-Covid Testing
+26,YP_009389425.1 spike glycoprotein [Wencheng Sm shrew coronavirus],-2197.7526688240387,1134,Covid Testing
+27,YP_003858584.1 spike protein [Bat coronavirus BM48-31/BGR/2008],-2470.1227937905487,1259,Covid Testing
+28,YP_009724390.1 surface glycoprotein [Severe acute respiratory syndrome coronavirus 2],-2479.306411113267,1273,Covid Testing
+29,YP_009824990.1 spike protein [Bat coronavirus],-2484.3324366464053,1269,Covid Testing
+30,YP_009755834.1 spike glycoprotein [Rodent coronavirus],-2721.816137959983,1361,Covid Testing
