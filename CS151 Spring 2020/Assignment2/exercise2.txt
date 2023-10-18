@@ -1,0 +1,10 @@
+Primitive data type int stores 32 bit signed two's compliment integer.
+It cannot cast a string value into an int value.
+Stores an integer value into memory.
+
+Integer is a wrapper class that wraps a primitive type int into an object.
+Can use Integer.parseInt() to convert a string literal into an int value.
+Converts int into an object and converts the object into an int as needed.
+Provides more flexibility in storing, converting and manipulating an int data.
+Can call various in-built methods defined in the class.
+Can hold a null value.
