@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+valu
+Z0 !s110 1582007555
+!i10b 1
+!s100 de9]UPIBShR5?]Q3AU[ML0
+I`:fXbz5kYTllz;7?hdnPP3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/azael/Downloads/prj_01
+w1581555710
+8C:/Users/azael/Downloads/prj_01/alu.v
+FC:/Users/azael/Downloads/prj_01/alu.v
+Z3 L0 26
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1582007555.000000
+!s107 prj_definition.v|C:/Users/azael/Downloads/prj_01/alu.v|
+!s90 -reportprogress|300|-work|work|C:/Users/azael/Downloads/prj_01/alu.v|
+!s101 -O0
+!i113 1
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vprj_01_tb
+R0
+!i10b 1
+!s100 :M<gdSijUe`fXl=LS;9:=1
+Ib>O;43Eg5U?cO`B;Hgbbc1
+R1
+R2
+w1582007546
+8C:/Users/azael/Downloads/prj_01/prj_01_tb.v
+FC:/Users/azael/Downloads/prj_01/prj_01_tb.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 prj_definition.v|C:/Users/azael/Downloads/prj_01/prj_01_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/azael/Downloads/prj_01/prj_01_tb.v|
+!s101 -O0
+!i113 1
+R6
