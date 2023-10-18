@@ -1,0 +1,3 @@
+not a bigbag file
+when running BigBag, it should print "not a bigbag file"
+the program should work for test.dat and t.dat, and print the contents in sorted order
